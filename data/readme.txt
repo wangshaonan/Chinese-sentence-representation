@@ -1,11 +1,9 @@
 Data:
-matrix-model3.pickle and dan-model3.pickle are the best models in our experiments
 
 data.train.txt, data.train.char are training data for word and character level models, respectively.
 
 data.test.txt, data.test.char are testing data of Chinese sentence similarity
 
-vector.sg300.small.ch are word embeddings with only words in training, testing and validation dataset
 
 Data construction:
 Training Dataset
